@@ -1,4 +1,4 @@
-# Alvaro---Data-Science-project
+# Alvaro - Data Science project
 # TFM Breast Cancer Classification
 This repository contains the data and documentation related to the development of the Master's Thesis of the Universidad Europea de Madrid referred to the Master in Artificial Intelligence and DataScience.
 
